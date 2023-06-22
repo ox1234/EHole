@@ -1,4 +1,4 @@
-module ehole
+module github.com/ox1234/EHole
 
 go 1.15
 
